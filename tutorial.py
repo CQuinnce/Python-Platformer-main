@@ -140,3 +140,4 @@ if __name__ == "__main__":
     main(window)
 
 # Stopping point: https://youtu.be/6gLeplbqtqg?t=2921
+#checking to see if codespace is a viable resource on my desktop
